@@ -1,5 +1,5 @@
 Name:		python-stevedore
-Version:	5.6.0
+Version:	5.9.0
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/s/stevedore/stevedore-%{version}.tar.gz
 Summary:	Manage dynamic plugins for Python applications
